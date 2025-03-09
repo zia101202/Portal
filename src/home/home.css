@@ -1,0 +1,114 @@
+.homebody {
+    font-size: 12.5px;
+    font-weight: bold;
+ 
+    font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
+  display: flex;
+    
+  
+}
+.navzia101{
+    
+    width:245px;
+    background: linear-gradient(to bottom, #242424, #303030, #383838);
+    box-shadow: 0 16px 38px -12px rgba(0,0,0,.56), 0 4px 25px 0 rgba(0,0,0,.12), 0 8px 10px -5px rgba(0,0,0,.2);
+    margin-top: 10px;
+    margin-left: 10px;
+  margin-right: 10px;
+
+
+ flex-shrink: 0;
+}
+
+.dataofdata{
+   
+   margin-right: 0%;
+}
+.navlogo{
+
+    width: 70px;
+    height: 70px;
+    margin-top: 25px;
+    margin-bottom: 20px;
+}
+.logodiv{
+
+    align-items: center;
+    text-align: center;
+}
+
+.navzia101 a{
+
+    text-decoration: none;
+    color: white;
+    padding: 16px 10px;
+    margin-right: 10px;
+   
+}
+
+.navzia101 img{
+    margin-right: 10px;
+   
+}
+
+
+.c{
+ padding-left: 8px;
+ padding-top: 15px;
+ padding-bottom: 15px;
+ padding-right: 20px;
+
+}
+.c:hover{
+    color: white;
+    background: #5554544D;
+    cursor: pointer;
+}
+
+.cb:hover{
+ 
+    cursor: pointer;
+ 
+}
+.cb{
+ 
+ 
+padding: 0%;
+}
+
+
+
+
+@media screen and  (max-width:900px) and (min-width:780px){
+    
+
+    .navzia101{
+        width: 230px;
+    }
+}
+
+@media screen and (max-width:780px) {
+
+    .navzia101{
+        width: 115px;
+        align-items: center;
+        text-align: center;
+    }
+    .navzia101 img{
+        margin-right: 60px;
+        margin-left: 10px;
+       
+    }
+
+    body{
+
+        font-size: 10px;
+    }
+    
+}
+
+
+.thisisme{
+
+    flex:100%;
+}

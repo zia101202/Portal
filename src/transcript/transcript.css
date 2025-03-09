@@ -1,0 +1,264 @@
+.TranscriptTop{
+
+    width: 99%;
+    height: 800px;
+    background: #f5f5f5;
+   overflow: auto;
+   box-shadow: 0px 0px 11px 0px rgba(0, 0, 0, 0.25);
+   margin-left: 10px;
+   margin-top: 7px;
+   margin-right: 40px;
+}
+
+
+.TranscriptTop h1{
+
+    color: #0c2e8a;
+    margin-left: 10px;
+}
+.TranscriptTop h2{
+    margin-left: 250px;
+    color: black;
+    font-weight: 600;
+    width: 500px;
+    font-size: 15px;
+}
+
+.TranscriptTop p span{
+
+    color: black;
+    font-weight: 500;
+}
+
+
+.TranscriptTop p {
+    margin-left: 10px;
+    color: black;
+    font-weight: 200;
+    margin-top: 0%;
+    width: 620px;
+    
+}
+.TranscriptId{
+    margin-left: 10px;
+    font-weight: 500;
+}
+.TranscriptName{
+    margin-left: 10px;
+    font-weight: 500;
+}
+.TranscriptDegree{
+    margin-left: 400px; 
+    font-weight: 500;
+}
+.TranscriptFathersName{
+    margin-left: 10px;
+    font-weight: 500;
+    margin-top: 20px;
+}
+
+
+.TranscriptNameDegree{
+
+    margin-top: 15px;
+}
+.DisclaimerTranscript{
+
+    text-decoration: underline;
+    margin-left: 10px;
+font-weight: 550;
+}
+
+.lefttable{
+
+    margin-left: 10px;
+    font-weight: 500;
+    border-collapse: collapse;
+}
+
+.righttable{
+    margin-left: 40px;
+    font-weight: 1000;
+    border-collapse: collapse;
+   
+}
+.righttable th{
+    
+    border:1px solid black;
+    font-weight: 660;
+    font-size: 9px;
+    
+   
+
+}
+.lefttable th{
+    border:1px solid black;
+    font-weight: 660;
+    font-size: 9px;
+   
+}
+
+
+
+.Transcriptbox1{
+
+display: inline-block;
+margin-top: 20px;
+
+}
+.Transcriptbox2{
+
+    display: inline-block;
+    margin-top: 20px;
+   
+}
+
+.CourseCode{
+
+    width: 50px;
+    margin-left: 70px;
+}
+
+
+.CourseTitle{
+
+    width: 200px;
+}
+
+.CrHrs{
+
+    width: 30px;
+}
+.Grade{
+
+    width: 30px;
+}
+.GP{
+    width: 30px;
+
+}
+
+.tablesTrancrip{
+
+    width: 1000px;
+}
+
+.coursesdetail{
+
+margin-left: 10px;
+border-collapse: collapse;
+font-weight: 600;
+font-size: 9px;
+width: 355px;
+}
+
+
+.corsecode{
+
+    border:1px dotted black;
+    width: 50px;
+   
+    
+}
+.corseName{
+
+    width: 200px;
+    border:0.5px dotted black;
+}
+.corsehours{
+
+    width: 30px;
+    border:0.5px dotted black; 
+}
+.corseGrade{
+    width: 30px;
+
+    border:0.5px dotted black;
+}
+.corseGp{
+    width: 30px;
+    border:0.5px dotted black;
+    
+}
+
+.courseyear{
+
+    margin-left: 170px;
+    font-weight: 1000;
+    font-size: 12px;
+    
+}
+
+
+.courseyear p{
+
+    font-weight: 700;
+
+}
+.coursedetail th{
+
+    font-weight: 600;
+}
+
+
+.earnedhour{
+
+
+font-weight: 400;
+font-size: 11px;
+}
+
+.totalhour{
+
+    margin-left: 120px;
+    font-weight: 400;
+    font-size: 11px;
+}
+
+.totalpoint{
+
+    margin-left: 120px;
+    font-weight: 400;
+    font-size: 11px;
+}
+
+.totalgpa{
+
+    margin-left: 110px;
+    font-weight: 400;
+    font-size: 11px;
+}
+
+.result{
+   margin-top: 50px;
+    margin-left: 10px;
+    background-color: #d8d4d4;
+    width:750px;
+}
+
+
+.Note{
+    width:750px;
+
+}
+
+.noteheader {
+
+    margin-top: 4px;
+ margin-left: 10px;
+    background-color: rgb(184,196,220);
+    width:750px;
+    font-size: 17px;
+    font-weight: 550;
+}
+.notedtext{
+    margin-top: 5px;
+    
+}
+
+.notedtext1{
+    margin-bottom: 0%;
+}
+.notedtext2{
+    margin-top: 0%;
+}

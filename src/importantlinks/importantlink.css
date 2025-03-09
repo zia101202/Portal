@@ -1,0 +1,123 @@
+.importantlinkscontainer{
+  
+
+    box-shadow: 0px 0px 11px 0px rgba(0, 0, 0, 0.25);
+    background: #f5f5f5;
+    margin-top: 20px;
+
+}
+
+.importantlinkscontainer h1{
+  
+    color: #0c2e8a;
+margin-left: 10px;
+
+}
+
+
+.importantlinkscontainerlinks{
+
+    display: flex;
+  border: 1px solid #2Da5ea;
+    flex-wrap: wrap;
+    margin-left: 100px;
+    margin-right: 100px;
+   margin-top: 100px;
+   margin-bottom: 100px;
+
+    
+}
+
+
+.importantlinkscontainerlinks1{
+flex:33.33%;
+align-items: center;
+align-content: center;
+    background-color: #2Da5ea;
+    color: white;
+    text-align: center;
+   padding: 10px;
+ 
+}
+.importantlinkscontainerlinks2{
+    flex:33.33%;
+    align-items: center;
+    align-content: center;
+    text-align: center;
+    padding: 10px;
+   
+}
+.importantlinkscontainerlinks3{
+    flex:33.33%;
+    background-color: #2Da5ea;
+    color: white;
+    align-items: center;
+    align-content: center;
+    text-align: center;
+    padding: 10px;
+    
+}
+.importantlinkscontainerlinks4{
+    flex:33.33%;
+    align-items: center;
+    align-content: center;
+    text-align: center;
+    padding: 10px;
+  
+}
+
+.importantlinkscontainerlinks5{
+    
+    flex:33.33%;
+    background-color: #2Da5ea;
+    color: white;
+    align-items: center;
+    align-content: center;
+    text-align: center;
+    padding: 10px;
+    
+}
+.importantlinkscontainerlinks6{
+    flex:33.33%;
+    align-items: center;
+    align-content: center;
+    text-align: center;
+    padding: 10px;
+ 
+}
+
+.linklinklink{
+
+    text-decoration: none;
+    color: white;
+}
+.linklinklink:hover{
+
+    text-decoration: none;
+    color: rgb(105, 104, 104);
+}
+
+.linklinklinks{
+
+    text-decoration: none;
+    color: rgb(105, 100, 100);
+}
+
+
+.linklinklinks:hover{
+
+    
+  color:#2Da5ea
+}
+
+
+@media screen and  (max-width:800px){
+    
+
+
+    .importantlinkscontainerlinks1 , .importantlinkscontainerlinks2, .importantlinkscontainerlinks3, .importantlinkscontainerlinks4, .importantlinkscontainerlinks5, .importantlinkscontainerlinks6 {
+
+
+        flex:100%;
+    }
+}

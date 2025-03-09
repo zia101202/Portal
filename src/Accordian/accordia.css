@@ -1,0 +1,73 @@
+/* Add this CSS to your existing stylesheet or in a style block */
+
+.bean .accordion-button:not(.collapsed)::after {
+    background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="white" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');
+    transform: none; /* Set transform to none to prevent transformation */
+    color: white;
+}
+
+
+
+.bean .accordion-item{
+    background-color: #72727299;
+    color: white;
+}
+.bean .accordion-button{
+    background: #303030;
+  
+    color: white;
+}
+
+.bean .accordion-button::after {
+
+    background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="white" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');
+}
+
+.bean .accordion-button:not(.collapsed) {
+    background: #383838;
+    color: white;
+}
+
+.bean .accordion-button:active {
+    box-shadow: none; /* Adjust the shadow color and size as needed */
+}
+.bean .accordion-button:focus {
+    box-shadow:none; /* Adjust the shadow color and size as needed */
+}
+
+.bean .navlist001 div{
+
+padding: 10px;
+    cursor: pointer;
+   
+}
+
+
+.bean .navlist001 div:hover{
+
+    background: #383838;
+}
+
+
+.bean .accordion-button {
+    box-shadow:none; /* Adjust the shadow color and size as needed */
+}
+
+.bean .accordion-item{
+
+    border: none;
+}
+.bean .accordion-header{
+
+    border: none;
+}
+
+.bean .nobi231:hover{
+    background: #303030;
+
+}
+
+.bean .nobi231{
+    padding: 15px;
+  cursor: pointer;
+}

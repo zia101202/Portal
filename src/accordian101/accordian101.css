@@ -1,0 +1,90 @@
+/* Add this CSS to your existing stylesheet or in a style block */
+
+.portal .accordion-button:not(.collapsed)::after {
+    background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="white" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');
+    transform: none; /* Set transform to none to prevent transformation */
+    color: white;
+}
+
+
+
+.portal .accordion-item{
+    background-color: #72727299;
+    color: white;
+}
+.portal .accordion-button{
+    background: #303030;
+  
+    color: white;
+}
+
+.portal .accordion-button::after {
+    
+    background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="white" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');
+}
+
+.portal .accordion-button:not(.collapsed) {
+    background: #383838;
+    color: white;
+}
+
+.portal .accordion-button:active {
+    box-shadow: none; /* Adjust the shadow color and size as needed */
+}
+.portal .accordion-button:focus {
+    box-shadow:none; /* Adjust the shadow color and size as needed */
+}
+
+
+.portal .accordion-button{
+   
+    box-shadow:none;
+}
+.portal .navlist001 div{
+
+padding: 10px;
+    cursor: pointer;
+   
+}
+
+.portal .navlist001 div:hover{
+
+    background: #383838;
+}
+
+
+
+
+.portal .accordion-item{
+    cursor: pointer;
+    border: none;
+}
+.portal .accordion-header{
+    cursor: pointer;
+    border: none;
+}
+
+.portal .nobi231:hover{
+    background: #303030;
+    cursor: pointer;
+}
+
+.portal .nobi231{
+    padding: 15px;
+    cursor: pointer;
+}
+
+@media screen and (max-width:775px) {
+    
+.accordion{
+
+    width:100px;
+}
+.accordion img{
+
+    margin: 0%;
+    display: none;
+}
+
+
+}

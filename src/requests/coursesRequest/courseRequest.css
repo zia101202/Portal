@@ -1,0 +1,381 @@
+   .CourseRequest{
+
+    width: 100%;
+    background: #f5f5f5;
+    margin: 8px;
+height: 600px;
+   }
+
+   .CourseRequestheader2{
+
+    color: #0c2e8a;
+    font-size: 32px;
+   
+   }
+
+  
+
+   .CourseRequestbox1Namestudent{
+   
+   
+   margin-left: 30px;
+   flex:70%;
+   }
+
+
+   
+   .CourseRequestbox1Namestudentmyname{
+ 
+   margin-right: 30px;
+   flex:30%;
+  
+   }
+
+   .CourseRequestbox1Namestudentmyname p{
+
+    float: right;
+   }
+
+
+ 
+
+   .CourseRequestbox1Namestudentnmnm{
+
+    font-weight: 400;
+   }
+
+   .CourseRequestbox1Namestudentmynameqlq{
+
+    color:#007bFF;
+    
+   }
+
+   .studentcoursegpadata{
+
+    margin-top: 20px;
+  margin-left: 10px;
+  margin-right: 10px;
+    display: flex;
+    flex-wrap: wrap;
+   }
+
+
+   #fall031{
+
+color:#F7b924;
+   }
+
+   #fall032{
+
+    color:#3AC47D;
+   }
+
+
+   #fall033{
+
+color: #007bFF;
+   }
+
+   #fall034{
+
+    color: #007bFF;
+   }
+
+
+   #fall035{
+    color: #D92550;
+
+   }
+
+   #fall036{
+
+    color: #007bFF;
+   }
+
+   #fall037{
+
+    color:#3AC47D;
+   }
+
+
+   #fall038{
+    color: #007bFF;
+
+   }
+
+
+   #fall039{
+
+    color:#3AC47D;
+   }
+   
+   .CourseRequestbox1{
+      background-color: white;
+    flex:63%;
+       display: flex;
+     
+       border-bottom:1px solid rgb(230, 226, 226);
+    }
+   
+
+
+ 
+  .CourseRequestbox2{
+    background-color: white;
+  
+     display: flex;
+     flex:37%;
+     border-bottom:1px solid rgb(230, 226, 226);
+  }
+
+  .CourseRequestbox3{
+
+    background-color: white;
+    flex:63%;
+     display: flex;
+   
+     border-bottom:1px solid rgb(230, 226, 226);
+  }
+  .CourseRequestbox4{
+
+    background-color: white;
+    flex:37%;
+     display: flex;
+   
+     border-bottom:1px solid rgb(230, 226, 226);
+  }
+
+  .ufooo{
+
+    display: flex;
+  }
+
+
+ 
+ .CourseRequestbox1box101{
+
+   background-color: white;
+   
+   display: flex;
+ 
+   border-bottom:1px solid rgb(230, 226, 226);
+   flex:33.33%;
+
+ }
+
+ .CourseRequestbox1box102{
+
+   background-color: white;
+   
+   display: flex;
+ 
+   border-bottom:1px solid rgb(230, 226, 226);
+   flex:29.33%;
+
+ }
+
+ .CourseRequestbox1box103{
+
+   background-color: white;
+   
+   display: flex;
+ 
+   border-bottom:1px solid rgb(230, 226, 226);
+   flex:37.33%;
+
+ }
+
+ .CourseRequestbox1box104{
+
+   background-color: white;
+   
+   display: flex;
+ 
+   border-bottom:1px solid rgb(230, 226, 226);
+   flex:33.33%;
+
+ }
+
+ .CourseRequestbox1box105{
+
+   background-color: white;
+   
+   display: flex;
+ 
+   border-bottom:1px solid rgb(230, 226, 226);
+   flex:29.33%;
+
+ }
+
+ .CourseRequestbox1box106{
+
+   background-color: white;
+   
+   display: flex;
+ 
+   border-bottom:1px solid rgb(230, 226, 226);
+  flex:37.33%;
+
+ }
+
+ 
+
+ .doremon{
+
+   display: flex;
+   flex-wrap: wrap;
+   margin-left: 10px;
+   margin-right: 10px;
+   margin-top: 50px;
+ }
+
+ .registrescoursesofmrcoursecode{
+
+   display: flex;
+ }
+
+ .registrescoursesofmrcoursecodeone{
+
+flex:18%;
+ }
+
+ .registrescoursesofmrcoursecodetwo{
+
+   flex:28%;
+ }
+ .registrescoursesofmrcoursecodethree{
+
+   flex:18%;
+ }
+ .registrescoursesofmrcoursecodefour{
+
+   flex:18%;
+ }
+ .registrescoursesofmrcoursecodefive{
+
+   flex:18%;
+ }
+
+ .registrescoursesofmr{
+
+  margin-top: 30px;
+   background-color: white;
+   margin-left: 10px;
+   margin-right: 10px;
+   margin-bottom: 10px;
+ }
+ .registrescoursesofmr h1{
+   font-size: 14px;
+  margin-left: 20px;
+  color: rgb(151, 151, 151);
+  
+ }
+
+ .registrescoursesofmrcoursecode{
+
+   margin-left: 30px;
+ }
+
+ #registrescoursesofmrcoursecodepo{
+
+ font-weight: 400;
+ }
+
+
+
+ @media screen and (max-width:700px) {
+  
+   
+   .CourseRequestbox1{
+
+      flex:100%;
+   
+    }
+   
+
+
+ 
+  .CourseRequestbox2{
+  
+     flex:100%;
+   
+  }
+
+  .CourseRequestbox3{
+
+ 
+   flex:100%;
+   
+  }
+  .CourseRequestbox4{
+
+
+   flex:100%;
+   
+  }
+
+
+
+
+
+
+
+  .CourseRequestbox1box101{
+
+   flex:100%;
+
+ }
+
+ .CourseRequestbox1box102{
+
+   flex:100%;
+
+ }
+
+ .CourseRequestbox1box103{
+
+   flex:100%;
+
+ }
+
+ .CourseRequestbox1box104{
+
+   flex:100%;
+
+ }
+
+ .CourseRequestbox1box105{
+   flex:100%;
+
+ }
+ .CourseRequestbox1box106{
+   flex:100%;
+
+ }
+
+
+
+
+
+
+
+
+
+
+
+
+   
+ }
+
+
+
+ #CourseRequesdark{
+
+  font-weight: 600;
+  color: rgb(65, 64, 64)
+ }
+
+ .CourseRequesdark{
+  font-weight: 700;
+
+ }

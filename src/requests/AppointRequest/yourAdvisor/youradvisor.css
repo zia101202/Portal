@@ -1,0 +1,120 @@
+
+.Youradvisorheader{
+
+    color: #0c2e8a;
+    font-size: 30px;
+    margin-left: 10px;
+    height: 100px;
+    border-bottom: 1px solid rgb(230, 223, 223);
+    margin-right: 10px;
+}
+
+
+
+    .Youradvisorcontainer{
+       
+        box-shadow: 0px 0px 11px 0px rgba(0, 0, 0, 0.25);
+        background: #f5f5f5;
+       
+        margin-left: 5px;
+       height: 800px;
+       margin-top: 7px;
+    }
+
+    .Youradvisorcontainerone img{
+        width: 200px;
+        height: 200px;
+        border: 3px solid white;
+    }
+
+    .Youradvisorcontainerone{
+
+      margin-left: 20px;  
+      font-size: 23px;
+      font-weight: 400;
+    }
+
+
+    .Youradvisorcontainertwo{
+
+       margin-left: 70px;
+       margin-top: 10px;
+       font-size: 13px;
+       font-weight: 400;
+    }
+
+    .Youradvisorcontainerthree{
+        margin-left: 70px;
+        margin-top: 10px;
+        font-size: 13px;
+        font-weight: 400;
+    }
+
+    .Youradvisorcontainerfour{
+        margin-left: 70px;
+        margin-top: 10px;
+        font-size: 13px;
+        font-weight: 400;
+    }
+
+    .Youradvisorcontainerfive{
+        margin-left: 70px;
+        margin-top: 10px;
+        font-size: 13px;
+        font-weight: 400;
+    }
+
+
+
+    .Youradvisorcontainersix{
+
+        text-align: center;
+        margin-top: 10px;
+        font-size: 23px;
+        font-weight: 400;
+    }
+
+    .Youradvisorcontainerseven{
+        margin-left: 70px;
+        margin-top: 30px;
+        font-size: 23px;
+        font-weight: 400;
+   
+    }
+    .Youradvisorcontainerseven button{
+
+width: 100px;
+height: 40px;
+background-color: white;
+border: 1px solid #378de5;
+
+cursor: pointer;
+color: #378de5;
+font-family: Arial;
+font-size: 13px;
+
+
+    }
+
+    .Youradvisorcontainerseven button:hover{
+        background-color: #378de5;
+        color: white;
+        text-decoration: none;
+
+    }
+
+    .Youradvisorcontainerseven button:active{
+        border: 1px solid #378de5;
+    }
+
+
+   .Youradvisorcontaineriam {
+    text-align: center;
+  font-size: 23px;
+  font-weight: 400;
+  background-color: rgb(216, 216, 216);
+  height: 40px;
+  margin-left: 10px;
+  margin-right: 10px;
+  margin-bottom: 20px;
+   }

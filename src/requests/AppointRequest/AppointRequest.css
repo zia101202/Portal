@@ -1,0 +1,92 @@
+
+.AppointRequestheader{
+
+    color: #0c2e8a;
+    font-size: 30px;
+    margin-left: 10px;
+    height: 70px;
+ font-size: 35px;
+    margin-right: 10px;
+    font-weight: 650;
+}
+
+
+
+    .AppointRequestcontainer{
+
+        box-shadow: 0px 0px 11px 0px rgba(0, 0, 0, 0.25);
+        background: #f5f5f5;
+        width: 100%;
+      margin-top: 7px;
+        height: 400px;
+
+    }
+
+    .RecieveAppointRequest{
+
+  font-size: 30px;
+  font-weight: 400;
+  margin-left: 10px;
+    }
+
+    .AppointRequestButton{
+
+        text-align: right;
+        margin-top: 10px;
+        margin-bottom:10px ;
+    }
+
+    .AppointRequestButton1{
+
+        color: #16aaff;
+    border:1px solid #16aaff;
+  
+    margin-right: 4px;
+    padding: 10px;
+    cursor: pointer;
+}
+
+    .AppointRequestButton2{
+        color: #3ac47d;
+        border:1px solid #3ac47d;
+        margin-right: 4px;
+        padding: 10px;
+        cursor: pointer;
+    }
+
+    .svgplus{
+
+        fill: #3ac47d;
+        margin-right: 10px;
+    }
+    .svguser{
+
+        fill: #16aaff;
+        margin-right: 10px;
+       
+    }
+
+    .svgplus:hover{
+
+        fill: white;
+       
+    }
+    .svguser:hover{
+        fill: rgb(226, 226, 226);
+
+    }
+
+    .AppointRequestButton2:hover{
+      background-color:#3ac47d ;
+      color:white;
+    }
+
+    .AppointRequestButton1:hover{
+        background-color:#16aaff; ;
+        color:white;
+      }
+
+      .linksapoint{
+
+        text-decoration: none;
+      }

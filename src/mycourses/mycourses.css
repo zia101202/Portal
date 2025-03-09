@@ -1,0 +1,116 @@
+.mycourses{
+
+   
+    
+    background: #f5f5f5;
+  padding-bottom: 100px;
+  padding-right: 10px;
+ padding-top: 10px;
+ margin-top: 5px;
+
+}
+
+
+.REGISTEREDCOURSES{
+
+    color: rgba(13,27,62,0.7);
+    font-weight: 500;
+    font-size: 15px;
+ margin: 10px;
+   
+    
+   
+}
+.coursedetailbox{
+   
+    height: 300px;
+    background-color: white;
+    margin-left: 10px;
+    margin-top: 10px;
+   
+   
+}
+
+
+.courseDetails{
+    border-top: 0.5px solid #f5f5f5;
+    border-bottom:0.5px solid #f5f5f5;  
+  margin-left: 40px;
+}
+
+.courseDetails1{
+width: 60px;
+padding: 10px;
+}
+.courseDetails2{
+   width: 120px;
+    padding: 10px;
+}
+.courseDetails3{
+    width: 60px;
+    padding: 10px;
+}
+.courseDetails4{
+    width: 120px;
+    padding: 10px;
+}
+.courseDetails5{
+    width: 150px;
+    padding: 10px;
+}
+.courseDetails6{
+    width: 60px;
+    padding: 10px;
+}
+.courseDetails7{
+    width: 60px;
+    padding: 10px;
+}
+.courseDetails8{
+    width: 60px;
+    padding: 10px;
+    
+}
+.courseDetails9{
+    width: 60px;
+    padding: 10px;
+ 
+}
+
+.courseDetails10{
+    width: 60px;
+    padding: 10px;
+    
+}
+
+.courseDetails:hover{
+
+    background-color: #dbe7ec;
+   
+}
+@media screen and (max-width:946) {
+    .courseRow{
+
+        overflow-x: scroll;
+    }
+   
+   
+    
+}
+
+
+#mapregisterdcourse120 th{
+
+    font-size: 12px;
+    font-weight: 400;
+   
+}
+
+.spinner-border{
+
+    width: 100px;
+    height: 100px;
+    position: relative;
+    left: 40%;
+    right: 70%;
+}

@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"name": "no",
+			"path": "."
+		},
+		{
+			"name": "src",
+			"path": "../portals/portals/src"
+		},
+		{
+			"path": "../portals/portals/public"
+		}
+	],
+	"settings": {}
+}

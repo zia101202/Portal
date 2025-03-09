@@ -1,0 +1,124 @@
+.paymentmainheader{
+
+    color: #0c2e8a;
+    margin-left: 10px;
+  
+ 
+}
+
+.paymentmainheader p{
+
+    color: DarkBlue;
+    margin-left: 170px;
+    margin-top: 90px;
+    font-size: 17px ;
+   
+    
+    
+}
+.Toppaymentmainheader{
+margin-top: 10px;
+    box-shadow: 0px 0px 11px 0px rgba(0, 0, 0, 0.25);
+    background: #f5f5f5;
+    height: 680px;
+  
+    overflow: auto;
+  
+ 
+}
+
+
+
+
+.historyheader{
+    background-color: #2da5e4;
+    color: #37476c;
+    text-align: center;
+    padding: 6px;
+    margin-left: 30px;
+   
+    font-size: 15px;
+}
+
+.Toppaywidth{
+
+    width: 700px;
+}
+
+
+
+
+
+.studentDetail1{
+     
+     color: #000066;
+     font-weight: 500;
+    }
+    
+.studentDetail2{
+    margin-left: 30px;
+   
+ }        
+
+ .studentDetail3{
+    margin-left: 100px;
+  
+}
+.studentDetail4{
+    margin-left: 30px;          
+      }
+      .studentDetail5{
+        margin-left: 110px;   
+}
+
+.studentDetail6{
+    margin-left: 130px;
+}
+
+.studentDetail156{
+
+    margin-top: 10px;
+}
+
+
+
+.tableheader{
+
+    color: #000066;
+    margin-left: 30px;
+    font-weight: 500;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+.tableheader1{
+    background-color: #2da5e4;
+border: 1px solid black;
+padding: 7px;
+width: 130px;
+
+}
+.tableheader2{
+    background-color: #2da5e4;
+    border: 1px solid black;  
+    padding: 7px; 
+    width: 100px;
+  
+}
+.tableheader3{
+    background-color: #2da5e4;
+    border: 1px solid black;  
+    width: 190px;
+    padding: 7px;
+}
+.tableheader4{
+    border: 1px solid black;
+    background-color: #2da5e4;
+    padding: 7px;
+}
+.tableheader5{
+    border: 1px solid black;
+    background-color: #2da5e4;
+    padding: 7px;
+    width: 180px;
+}
